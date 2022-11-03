@@ -215,10 +215,7 @@ footer a:hover {
     header #socials {
         display: flex;
     }
-    
-    header #socials a {
-        text-align: center;
-    }
+   
     nav {
         flex-direction: column;
     }
