@@ -206,7 +206,6 @@ footer a:hover {
         display: flex;
         flex-direction: column;
         text-align: center;
-        justify-content: center;
     }
 
     header .fa {
@@ -215,12 +214,11 @@ footer a:hover {
 
     header #socials {
         display: flex;
-        justify-content: center;
     }
     
     header #socials a {
         text-align: center;
-    
+    }
     nav {
         flex-direction: column;
     }
