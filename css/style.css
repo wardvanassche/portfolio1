@@ -22,7 +22,7 @@ header a {
 }
 
 header .fa {
-    font-size: 30px;
+    font-size: 2em;
     color: gray;
     padding: 30px;
     width: 50px;
@@ -214,6 +214,7 @@ footer a:hover {
 
     header #socials {
         display: flex;
+        justify-content: center;
     }
    
     nav {
