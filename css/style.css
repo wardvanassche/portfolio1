@@ -218,6 +218,9 @@ footer a:hover {
         justify-content: center;
     }
     
+    header #socials a {
+        text-align: center;
+    
     nav {
         flex-direction: column;
     }
